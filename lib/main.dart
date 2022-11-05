@@ -19,7 +19,7 @@ class MyApp extends StatelessWidget {
       theme: ThemeData(
         useMaterial3: true,
 
-        primarySwatch: primaryAppColor,
+        primarySwatch: Colors.brown,
       ),
       initialRoute: DashBoard.routeName,
       routes: {
